@@ -1,0 +1,5 @@
+## Interface: 60200
+## Title: GugiDressUp
+## Notes: Gugi's DressUpRoom Utility
+GugiDressUp.lua
+GugiDressUp.xml
