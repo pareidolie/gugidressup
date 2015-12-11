@@ -35,6 +35,12 @@ function GDU_Inject()
             Clear = Clear - 1
         end
     end)
+    
+    DressUpFrame.ResetButton:SetScript("OnClick", function()
+        DressUpModel:Dress()
+        PlaySound("gsTitleOptionOK");
+        GDU_HideTabard()
+    end)
 end
 
 
