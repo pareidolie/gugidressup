@@ -1,5 +1,8 @@
 ## Interface: 60200
 ## Title: GugiDressUp
-## Notes: Gugi's DressUpRoom Utility
+## Title-deDE: Gugis Anprobe
+## Notes: Tabard hide/show option in dress up frame
+## Notes-deDE: Wappenrock anzeigen/ausblenden im Anprobefenster
+## Version: 1.0
 GugiDressUp.lua
 GugiDressUp.xml
